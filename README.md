@@ -1,2 +1,2 @@
-# Hayrosquard.github.io
+# thebaikenov.github.io
 Discord server
