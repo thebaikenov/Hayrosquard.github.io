@@ -1,5 +1,5 @@
 (function(){
-    const DA_CLIENT_ID = '3ae7i35S2dKk0VSwBBLU';
+    const DA_CLIENT_ID = '';
 
     function escapeHtml(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
 
